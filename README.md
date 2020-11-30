@@ -1,2 +1,7 @@
 # DBMS-Hotel-Reservation-System
 Resort and Hotel Management system which helps store data, maintain records and keep essential information stored in an organised manner.
+
+Our project is a Resort and Hotel Management system which helps store data, maintain records and keep essential information stored in an organised manner. As simple as this may sound, keeping track of all the data in a simple restaurant itself can by far be quite a tedious task.
+Extending the same to a resort and hotel makes it a much more messy task, as several otheraspects such as the rooms, restaurant, facilities, reservations etc. all add on to the complexity, therefore requiring a highly efficient database management system which allows vast amounts of data to be stored, processed, manipulated and retrieved. This further enables the Resort and Hotel to maintain basic standards and offer quality service to their customers.
+The front-end user will have at his service a robust user interface which would be intuitive and easy to use. It will provide a user friendly interface for data to be input and also manipulated and retrieved based on the situation and required parameters.
+The site administrator will have at his service a wide set of tools which help in sitedevelopment and maintenance. We will be using PyMySQL as our database managementsystem. PyMySQL is compatible with all major web servers. It is also free and open-source thus giving it an edge in terms of security. It is also proven to be faster than most other competing database clients.
